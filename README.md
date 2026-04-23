@@ -112,8 +112,6 @@ Tech stack:
 ## 📚 Currently Learning
 
 - Reinforcement Learning
-- Large Language Model Systems
-- Distributed ML Infrastructure
 - Open Source Contributions
 
 ---
